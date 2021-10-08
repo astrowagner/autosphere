@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Kevin
+    given-names: Wagner
+    orcid: https://orcid.org/0000-0002-4309-6343
+title: "sphere-tools"
+version: 1.0
+doi: 10.5281/zenodo.5557844
+
+date-released: 2021-10-08
